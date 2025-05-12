@@ -24,10 +24,10 @@ The Flower Website Backend is a Node.js and Express.js-powered RESTful API desig
 - Middleware for request logging and error handling
 
 ## Presentation Link
-[Presentation Link]()
+[Presentation Link](https://www.loom.com/share/0c90173bff494f06958ad9cee339cd2a?sid=73c09f61-b6b9-4d57-80fd-57dae154f2ea)
 
 ## Live Demo
-[Live Demo]()
+[Live Demo](https://flower-website-backend.onrender.com)
 
 ## Technologies Used
 - Node.js
