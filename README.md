@@ -53,7 +53,7 @@ The Flower Website Backend is a Node.js and Express.js-powered RESTful API desig
 
 3. **Set up the environment variables:**
    PORT=5000
-   MONGO_URI= mongodb+srv://mfthegreat301:g7Q9Xs2A0X0VNUZI@cluster0.imwxm.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+   MONGO_URI=mongodb+srv://user:user123@cluster0.gfprrfl.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
 
 4. **Start the server:**
